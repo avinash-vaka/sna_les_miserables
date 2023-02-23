@@ -9,7 +9,7 @@ We define coapperance as being seen in the same chapter of the novel. An edge be
 
 The data is sourced from D.E. Knuth, The Stanford GraphBase (https://www-cs-faculty.stanford.edu/~knuth/sgb.html)
 
-Code is in the form of a Jupyter Notebook under /notebooks/Social Network Analysis - Les Miserables
+Code is in the form of a Jupyter Notebook under notebook/Social Network Analysis - Les Miserables
 
 ## Results from the analysis:
 
