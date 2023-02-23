@@ -1,3 +1,4 @@
+# Overview
 This repo contains the data and code peform a social network analysis on the French novel - Les Miserables (Victor Hugo)
 
 A summary of the novel can be found at https://www.sparknotes.com/lit/lesmis/summary/
@@ -10,9 +11,7 @@ The data is sourced from D.E. Knuth, The Stanford GraphBase (https://www-cs-facu
 
 Code is in the form of a Jupyter Notebook under /notebooks/Social Network Analysis - Les Miserables
 
-Below is the results from the analysis:
-
-# Final Analysis
+## Results from the analysis:
 
 ### Graph Overview:
 The graph has 77 nodes indicating 77 characters in the novel.
